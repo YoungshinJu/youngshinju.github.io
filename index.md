@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: 
+home_text: made by Youngshin 
 title: QUPID
 ---
