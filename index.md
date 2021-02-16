@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: This is QUPID LAB
+home_text: 
 title: QUPID
 ---
