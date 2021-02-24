@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: research
 permalink: /research
 title: [Youngshin Ju ]
 pagination:
