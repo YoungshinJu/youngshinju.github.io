@@ -1,5 +1,5 @@
 ---
 layout: home
-home_text: made by Youngshin 
-title: QUPID
+home_text: Welcome!
+title: Youngshin Ju
 ---
