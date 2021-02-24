@@ -10,7 +10,7 @@ Youngshin Ju
 
 mail: gypsophila91@gmail.com
 
-[https://www.linkedin.com/in/youngshin-ju-0ab591192/](./https://www.linkedin.com/in/youngshin-ju-0ab591192/).
+https://www.linkedin.com/in/youngshin-ju-0ab591192/
 
 
 
