@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /research
-title: [Youngshin Ju ]
+title: [Research]
 pagination:
   enabled: true
 ---
