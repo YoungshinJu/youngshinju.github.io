@@ -44,6 +44,12 @@ permalink: /cv/
 
 * * *
 
+# Teaching and Mentoring Experience
+
+* Mar. 2016 - Present: Private Tutoring for Research Methodology and Data Analysis
+
+* 2019 - 2020: Volunteer Teaching of Basic SEM
+
 # Programming Skills
 
 *  R: Data Management and Visualization, Multilevel analysis, SEM, Growth Curve Modeling, Bayesian Statistics
