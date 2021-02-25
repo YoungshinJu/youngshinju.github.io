@@ -36,7 +36,7 @@ permalink: /research/
 
 * Ju, Y. S. (2019, October). Estimation of quadratic change curve using panel data: Comparison of multilevel model, definition variable and covariate model. Poster presented at the 2019 Fall Conference of Korean Society of Psychological Measurement and Assessment, Seoul, South Korea.
 
-* Ju, Y. S., Kim, T. H., Lee, E. Y. (2019, March). Using alignment optimation to test measurement invariance of K-MMSE (Korean Mini-Mental State Examination) in age groups. Poster presented at the 2019 International Convention of the Psychological Science, Paris, France.
+* Ju, Y. S., Kim, T. H., & Lee, E. Y. (2019, March). Using alignment optimation to test measurement invariance of K-MMSE (Korean Mini-Mental State Examination) in age groups. Poster presented at the 2019 International Convention of the Psychological Science, Paris, France.
 
 * Kim, T. H. & Ju, Y. S. (2018, May). Development and Validation of Korean Version IPIP-NEO Short Form. Poster presented at the 30th American Psychological Sicence, San Francisco, California.
 
@@ -44,7 +44,7 @@ permalink: /research/
 
 * Ju, Y. S. & Kim, T. H. (2017, May). Exploring the longitudinal relationship between depression in old age and subjective expectations. Poster presented at the 2017 Spring Conference of Korean Society of Psychological Measurement and Assessment, Seoul, South Korea.
 
-* Kim, T. H., Ju. Y. S., & Rie, J. I. (2015, May). The effects of organizational culture on organizational commitment and social loafing of university students belonging to sports clubs: Moderating effect of shared leadership. Poster presented at the 2015 Spring Conference of Korean Society for Industrial and Organizational Psychology, Seoul, South Korea.
+* Kim, T. W., Ju. Y. S., & Rie, J. I. (2015, May). The effects of organizational culture on organizational commitment and social loafing of university students belonging to sports clubs: Moderating effect of shared leadership. Poster presented at the 2015 Spring Conference of Korean Society for Industrial and Organizational Psychology, Seoul, South Korea.
 
 * Lim, S. A., Ju, Y. S., Jung, S. Y., & Rie, J. I. (2014, October). The relationship between pretean career attitudes and active ageing: The Mediating effect of self-efficacy. Poster presented at the 2014 Fall Conference of Korean Society for Industrial and Organizational Psychology, Gwangju, South Korea.
 
