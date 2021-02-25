@@ -32,7 +32,7 @@ permalink: /research/
 
 # Presentations
 
-* Ju, Y. S. & Jahng, S. M. (2020, October). Testing measurement invariance of K-MMSSE (Korean Mini-Mental State Examination) in age groups using Bayesian CFA. Poster presented at the 2020 Fall on-line Conference of Korean Society of Psychological Measurement and Assessment, South Korea.
+* Ju, Y. S. & Jahng, S. M. (2020, October). Testing measurement invariance of K-MMSSE (Korean Mini-Mental State Examination) in age groups using Bayesian CFA. Poster presented at the 2020 Fall on-line Conference of Korean Society of Psychological Measurement and Assessment, South Korea. (Grand Prize for Poster Session)
 
 * Ju, Y. S. (2019, October). Estimation of quadratic change curve using panel data: Comparison of multilevel model, definition variable and covariate model. Poster presented at the 2019 Fall Conference of Korean Society of Psychological Measurement and Assessment, Seoul, South Korea.
 
