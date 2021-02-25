@@ -4,124 +4,54 @@ title: Research
 permalink: /research/
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Main Interests
 
-[Link to another page](./another-page.html).
+*  Measurement Invariance in Factor Model
 
-There should be whitespace between paragraphs.
+*  Multilevel Modeling
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* Longitudinal Data
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+* Bayesian Modeling
 
 * * *
 
-### Here is an unordered list:
+# Research Experience
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+* Sep. 2019 - Present: Multilevel Modeling in Longitudinal Data
 
-### And an ordered list:
+* Mar. 2019 - Present: Approximate Measurement Invariance using Bayesian Estimation
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+* Mar. 2018 - Dec. 2018: Measurement Invariance across many groups
 
-### And a nested list:
+* Jan. 2015 - Feb. 2016: Effect of Job Stresses on Organizational Commitment and Psychological well-being of Korean Fire Workers
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+* Mar. 2014 - Nov. 2015: Active Ageing in Korean Eldery
 
-### Small image
+* * *
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+# Presentations
 
-### Large image
+* Ju, Y. S. & Jahng, S. M. (2020, October). Testing measurement invariance of K-MMSSE (Korean Mini-Mental State Examination) in age groups using Bayesian CFA. Poster presented at the 2020 Fall on-line Conference of Korean Society of Psychological Measurement and Assessment, South Korea.
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* Ju, Y. S. (2019, October). Estimation of quadratic change curve using panel data: Comparison of multilevel model, definition variable and covariate model. Poster presented at the 2019 Fall Conference of Korean Society of Psychological Measurement and Assessment, Seoul, South Korea.
 
+* Ju, Y. S., Kim, T. H., Lee, E. Y. (2019, March). Using alignment optimation to test measurement invariance of K-MMSE (Korean Mini-Mental State Examination) in age groups. Poster presented at the 2019 International Convention of the Psychological Science, Paris, France.
 
-### Definition lists can be used with HTML syntax.
+* Kim, T. H. & Ju, Y. S. (2018, May). Development and Validation of Korean Version IPIP-NEO Short Form. Poster presented at the 30th American Psychological Sicence, San Francisco, California.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* Ju, Y. S. & Rie, J. I. (2018, February). Do "good" stressors make a psychologically healthy person? Differential hindrance-challenge stressor relationship with job crafting and psychological well-being of fire officer. Poster presented at the 2018 International Symposium on Social Science and Management, Osaka, Japan.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+* Ju, Y. S. & Kim, T. H. (2017, May). Exploring the longitudinal relationship between depression in old age and subjective expectations. Poster presented at the 2017 Spring Conference of Korean Society of Psychological Measurement and Assessment, Seoul, South Korea.
 
-```
-The final element.
-```
+* Kim, T. H., Ju. Y. S., & Rie, J. I. (2015, May). The effects of organizational culture on organizational commitment and social loafing of university students belonging to sports clubs: Moderating effect of shared leadership. Poster presented at the 2015 Spring Conference of Korean Society for Industrial and Organizational Psychology, Seoul, South Korea.
 
-## Emojis
+* Lim, S. A., Ju, Y. S., Jung, S. Y., & Rie, J. I. (2014, October). The relationship between pretean career attitudes and active ageing: The Mediating effect of self-efficacy. Poster presented at the 2014 Fall Conference of Korean Society for Industrial and Organizational Psychology, Gwangju, South Korea.
+
+* Rie, J. I., Kim, Y. R., & Ju, Y. S. (2014, May). The effects of the employment status and emotional experience on active aging of eldery. Poster presented at the 2014 Spring Conference of Korean Society for Industrial and Organizational Psychology, Seoul, South Korea.
+
+* * *
+
+# Thesis
+
+* (M. A.) The impacts of hindrance stressor, challenge stressor and job crafting on organizational commitment and psychological well-being of fire officers: The mediation effects of job engagement and job burnout
