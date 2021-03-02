@@ -24,7 +24,7 @@ permalink: /cv/
 
 * * *
 
-# Honors and Awards
+# Awards
 
 *  2020, Grand Prize for Poster Presentation, Korean Society of Psychological Measurement and Assessment
 
@@ -61,5 +61,7 @@ permalink: /cv/
 *  SPSS: Regression, General (Generalized) Linear Model, PROCESS macro
 
 *  Amos: CFA, Path model, SEM, Growth Curve Modeling, Multi-group Analysis
+
+* Python: Novice
 
 
