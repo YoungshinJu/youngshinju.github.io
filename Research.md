@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Main Interests
+# Research Interests
 
 *  Measurement Invariance in Factor Model
 
@@ -12,7 +12,7 @@ permalink: /research/
 
 * Longitudinal Data
 
-* Bayesian Modeling
+* Bayesian Method
 
 * * *
 
