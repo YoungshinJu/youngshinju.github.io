@@ -50,6 +50,10 @@ permalink: /cv/
 
 * 2019 - 2020: Volunteer Teaching of Basic SEM
 
+* Sep. 2019 - Dec. 2019: Teaching Assistant, Structural Equation Modeling, Sungkyunkwan University, South Korea
+
+* Sep. 2018 - Dec. 2018: Teaching Assistant, Regression Analysis and Factor Analysis, Sungkyunkwan University, South Korea
+
 * * *
 
 # Programming Skills
