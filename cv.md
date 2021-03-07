@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-# Information
+# Contact Information
 
 *  Youngshin Ju
 
