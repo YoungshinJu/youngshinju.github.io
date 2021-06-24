@@ -18,6 +18,8 @@ permalink: /research/
 
 # Research Experience
 
+* May. 2021 - Present: Scale Development & Improvement testing Risk of Child Abuse
+
 * Sep. 2019 - Present: Multilevel Modeling in Longitudinal Data
 
 * Mar. 2019 - Present: Approximate Measurement Invariance using Bayesian Estimation
@@ -31,6 +33,8 @@ permalink: /research/
 * * *
 
 # Presentations
+
+* Ju, Y. S. & Jahng, S. M. (2021. May). Testing Approximate Measurement Invariance using Maximum likelihood and Bayesian Estimation. 2021 Spring on-line Conference of American Psychological Science, U.S.
 
 * Ju, Y. S. & Jahng, S. M. (2020, October). Testing measurement invariance of K-MMSE (Korean Mini-Mental State Examination) in age groups using Bayesian CFA. Poster presented at the 2020 Fall on-line Conference of Korean Society of Psychological Measurement and Assessment, South Korea. (Grand Prize for Poster Session)
 
